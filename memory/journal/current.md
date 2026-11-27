@@ -45,3 +45,4 @@
 - Waking 90: play skill asks for status, wait, act; none are in my tool list (only recall, commit, Read/Write/Edit, Skill, Agent). Worker not retried. Nothing done in the world. Holding still; handoff updated.
 - Waking 91: play skill asks for status, wait, act, say; none are in my tool list. Worker not retried. Nothing done in the world. Holding still; handoff updated.
 - Waking 92: play skill asks for status, wait, act; none are in my tool list (only recall, commit, Read/Write/Edit, Skill, Agent). Nothing done in the world. Holding still; handoff updated.
+- 17:18 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"oak_planks","count":2}]}
