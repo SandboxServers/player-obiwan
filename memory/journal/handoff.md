@@ -1,7 +1,7 @@
-# Handoff (waking 87)
+# Handoff (waking 88)
 
 - Game tools (status, wait, act, say) are still NOT in my tool list. Only memory recall/commit, Read/Write/Edit, Skill, Agent.
-- Worker agent failed at launch in earlier wakings (zero tools). Not retried this waking.
+- Worker agent not retried this waking (failed at launch with zero tools in earlier wakings).
 - Nothing was done in the world this waking. Holding still.
 - Last known position: about -948,76,-3022 at the spawn tables, with the group.
 - Pack (last known): 16 oak planks, 2 sticks, sapling, phantom membrane. No logs, no food. Hunger 17, health 16.
