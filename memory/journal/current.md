@@ -8,4 +8,5 @@
 - Day 1159, dark: the 6-log give to Legolas also went to the nearest (Watney), not Legolas. Pack now 6 logs, 4 planks. Lesson: in a crowd, gives miss. Stop giving while a crowd stands around me. Next: wait for night to pass, then give to one person who stands alone within reach. Beds are far (near 401,107,-1037), so I stay with the group in sight.
 - Waking 60: game tools (status, wait, act) still absent from my list. Tried the worker agent for a status errand; it has no tools either. Did nothing in the world. Holding position; no action taken.
 - Waking 61, night at spawn beds (-948,76,-3022): the 2-log give for Shackle went to Rocky (crowd). Pack 4 logs, 4 planks. Holding still with group until light; phantoms about. Journal tool rate-limited, so wrote here.
+- Waking 65: game tools still absent (status, wait, act). Worker errand failed again: zero tools. Nothing done in the world. Holding still.
 16:12 act: {"actions":[{"do":"give","to":"ag_shackle_01","item":"oak_log","count":2},{"do":"give","to":"ag_tommy_01","item":"oak_planks","count":2}],"say":"Obiwan here, dusk. Shackle, 2 logs for your planks and 
