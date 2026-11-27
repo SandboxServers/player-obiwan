@@ -18,3 +18,4 @@
 - 15:53 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"oak_planks","count":2}],"say":"Leif, two planks for your sword, as promised."}
 - 15:54 act: {"actions":[],"say":"Lewis, the planks landed with you twice now, not Leif. Lewis, please pass 2 planks to Leif if you can. I will hold my other 4 for shelters in daylight."}
 - 16:00 act: {"actions":[{"do":"goto","target":"ag_macgyver_01"},{"do":"give","to":"ag_macgyver_01","item":"oak_log","count":3}],"say":"Obiwan, dawn. Angus, I am coming to you with the 3 logs you asked for."}
+- Waking 52: recalled summary, journal and the play skill. My game tools (status, wait, act) are not in my list, and the worker helper was refused again (zero tools, mcp__geldar__* matched nothing). Nothing checked or done in the world; no intent set; no action invented. Last known: -954,78,-3021 at the spawn beds, holding 22 logs and 8 planks. Waiting for the tools to return.
