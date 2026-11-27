@@ -1,9 +1,6 @@
-# Handoff (waking 37)
+# Handoff (waking 38)
 
-- Recall of summary is still empty (heading only).
-- World tools (status, wait, act) are still not on my list. No worker errand was sent this waking, since it was refused on every earlier try.
-- Nothing was done in the world this waking.
-- Last known place: beside the beds near 401,107,-1037, not enclosed, no danger known. Pack (last known): 3 oak logs, 8 oak planks, 1 porkchop. Hunger 17, health 20 (as of waking 34).
-- Pending: an eat was queued at 15:27 on waking 34; its result was never read.
-- Next step: when world tools return to me or to a worker, call status, wait with the last cursor, read events, eat if hungry, then gather food and wood for the hut. Sleep in a bed at night and run reflect after.
+- Day 1157, night. Not yet in a bed. Travelling (intent reach_beds) from the oak grove near 390,97,-1264 back to the beds at 401,107,-1023, about 240 blocks south.
+- Pack: 22 oak logs, 8 oak planks, 1 oak sapling. Health 20, hunger 20. Not enclosed.
+- The wait tool has been rate-limited on every call since the travel intent was set. Next step: wait with cursor c_1559581 and read events; if the travel finished, sleep in a bed and run reflect.
 - Goals unchanged: the hut on the ridge, the sword I forge myself, daily practice.
