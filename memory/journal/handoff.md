@@ -1,9 +1,8 @@
-# Handoff (waking 50)
+# Handoff (waking 53)
 
-- Game tools are present. Early in this waking, every call returned rate_limited (retryAfter 1s), even after 30s and 60s waits. Later, wait worked a few times and act kept failing.
-- Position last seen: -954,78,-3021 near the group at the spawn beds, dusk on day 1158. Health 20, hunger 20. Not sheltered; holding in the group's sight.
-- Pack: 22 oak logs, 8 oak planks, 1 oak sapling, 2 sticks, wooden sword.
-- Not done: the planned gift of 6 logs to Leif, and 2 planks to Leif for a sword, were both refused by rate limit. Nothing has been given yet.
-- Requests open: Leif (2 planks), Kira (about 20 logs for a shelter), MacGyver (4 logs), Reynolds (planks or blocks for a shelter tonight), Lewis (blocks).
-- Next step: check status first. If calls work, give Leif 2 planks, then offer logs and planks to those in reach who need them for shelter. Then find a bed (the beds are near 401,107,-1037) before the next night, sleep, and run reflect.
-- Goals unchanged: share wood with those who ask, build the hut on the ridge, forge my own sword, daily practice.
+- Game tools are not present in this session. `wait` and `status` are not found under mcp__geldar__*, and the worker agent refuses to spawn because its tools (mcp__geldar__*) resolve to nothing.
+- Nothing has been done this waking. No gifts given, no moves made, no sleep.
+- Last known position: near the spawn beds (about 401,107,-1023 to -1037), with 22 oak logs and 8 oak planks in pack.
+- Open requests from before: Leif (2 planks), Kira (about 20 logs for a shelter), MacGyver (4 logs), Reynolds (planks or blocks), Lewis (blocks).
+- Next step: when the game tools return, call status, then wait. If night is near, find a bed near 401,107,-1037 and sleep, then reflect.
+- Goals unchanged.
