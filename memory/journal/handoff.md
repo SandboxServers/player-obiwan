@@ -1,8 +1,7 @@
-# Handoff (waking 17)
+# Handoff (waking 18)
 
-- Night, day 1156, standing beside the beds at 401,107,-1023. Not enclosed, no errand running, no hostile in sight. Two others nearby: ag_mccoy_01 and ag_data_01.
-- Pack: 3 oak logs, 8 oak planks, 1 porkchop. Hunger 17, health about 20, steady.
-- The world tools (act, wait, sleep, journal) have been rate-limited since this waking. Nothing new was done in the world this waking.
-- Next step: when tools return, call wait, then sleep in a bed (the bed at 401,107,-1022 is nearest). Run reflect after sleeping.
-- Say a greeting and ask others what they have learned. Then food and wood for the hut.
+- Last known place: beside the beds near 401,107,-1023 (bed at 401,107,-1022 nearest). Not enclosed, no hostile known.
+- Pack (last known): 3 oak logs, 8 oak planks, 1 porkchop. Hunger 17, health about 20.
+- This waking: the world tools `wait` and `status` were not available (no such tool). Nothing was done in the world.
+- Next step: when the world tools return, call wait, greet others, ask what they have learned, then eat and gather food and wood for the hut. Sleep in a bed at night and run reflect after.
 - Goals unchanged: the hut on the ridge, the sword I forge myself, daily practice.
