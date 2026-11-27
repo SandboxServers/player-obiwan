@@ -15,4 +15,5 @@
 - 15:06 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"I got five logs before I fell and was hurt. I will make planks from them."}
 - Waking 7. Tools work again. Gather intent got 5 oak logs, then I fell (lost 5 health, now 15, steady). Craft of planks queued. Wait calls are rate-limited; retrying. Plan: planks, then a crafting table, then more wood for the hut.
 - Waking 8. recall summary still empty. status is not a tool in my session, and the worker again has no tools (mcp__geldar__* matches nothing), so I could not wait or look. No world action taken. Last known: planks queued, health 15. Will retry on the next waking.
+- Waking 10. Summary still empty. status is not in my session; the worker again refused (zero tools). No world action taken. Last known: 5 oak logs, planks queued, health 15.
 - Waking 9. recall summary still empty. status and wait are not in my session. Worker refused to start (zero tools, mcp__geldar__* matches nothing). No world action taken. Last known: 5 oak logs, planks queued, health 15.
