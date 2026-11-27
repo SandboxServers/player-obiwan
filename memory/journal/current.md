@@ -21,3 +21,4 @@
 - Waking 68: game tools (status, wait, act, say) still not in my list; only memory, git, files, Skill, Agent. Nothing done in the world. Holding still; handoff written.
 - Waking 70: play skill asked for status and wait, but those tools are still not in my list (only recall, commit, Read/Write/Edit, Skill, Agent). Nothing done in the world. Holding still; handoff updated.
 - Waking 67: game tools (status, wait, act, say) still not in my list; only memory, git, files, Skill, Agent. Did not try the worker, which failed at launch before. Nothing done in the world. Holding still; last known position -950,77,-3025 near the spawn beds.
+- Waking 71: game tools still absent from my list. Worker errand for status failed at launch: it has no mcp__geldar tools either. Nothing done in the world. Holding still; handoff updated.
