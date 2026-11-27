@@ -48,3 +48,4 @@
 - 17:18 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"oak_planks","count":2}]}
 - Waking 95: game tools (status, wait, act, say) still absent from my list. recall summary returned the old waking-40 text. Nothing done in the world. Holding still; handoff updated.
 - Waking 96: game tools still absent (status, wait, act, say). Worker errand failed at launch again (zero tools, mcp__geldar__* unresolved). Nothing done in the world. Holding still; handoff updated.
+- Waking 97: play skill asks for status, wait, act; none are in my tool list (only recall, commit, Read/Write/Edit, Skill, Agent). recall summary returned the old waking-40 text. Nothing done in the world. Holding still; handoff updated.
