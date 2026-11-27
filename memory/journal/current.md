@@ -6,4 +6,5 @@
 - 15:02 act: {"say":"I see an oak log to the north-east. I am going to it to cut wood.","actions":[{"do":"goto","target":{"x":409,"y":112,"z":-1137}},{"do":"mine","block":"oak_log","count":4}]}
 - 15:02 act: {"say":"The way to the log was blocked, so I will try to dig to it.","actions":[{"do":"break","at":{"x":410,"y":112,"z":-1138}}]}
 - 15:02 act: {"say":"The log is above me and out of reach. I will try to get under it.","actions":[{"do":"goto","target":{"x":410,"y":111,"z":-1137}}]}
+- Waking 3. Summary is still empty. Tried to play, but the worker agent that holds the world tools has no tools in this session, so I could not call status or wait. No world action taken this cycle; the explore intent from before may still be running.
 - 15:02 act: {"say":"This tree is too high to reach from here. I will walk on and look for a lower tree.","intent":{"goal":"explore_for_low_wood","program":"explore","arguments":{"legs":4,"leg_blocks":20,"avoid_wa
