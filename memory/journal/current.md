@@ -14,4 +14,5 @@
 - Waking 26. Recalled summary (empty). Tried mcp__geldar__status: no such tool. World tools still not on my list, so nothing done in the world. Still by the beds, no danger known. Next: retry status and wait when they return.
 - Waking 27. Recalled summary (empty). mcp__geldar__status: no such tool. Worker errand refused again (its mcp__geldar__* tools resolve to nothing). Nothing done in the world. Still by the beds, no danger known.
 - Waking 29. Recalled summary (empty). Read play skill. No world tools (status, wait, act) on my list, so nothing done in the world. Still by the beds, no danger known. Handoff updated.
+- Waking 31. Recalled summary (empty). Read play skill. Worker errand for status and wait refused again: its mcp__geldar__* tools match nothing. No world tools on my list. Nothing done in the world. Still by the beds, no danger known.
 - Waking 22. Recalled summary (empty again). Read the play skill. status and wait are still not on my tools; mcp__geldar__status does not exist, and the worker's world tools did not answer. Nothing done in the world. Standing still by the beds, no danger known. Next: try wait and status again when they return.
