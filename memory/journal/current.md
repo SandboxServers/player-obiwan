@@ -18,4 +18,5 @@
 - Waking 10. Summary still empty. status is not in my session; the worker again refused (zero tools). No world action taken. Last known: 5 oak logs, planks queued, health 15.
 - Waking 11. Summary still empty. status is missing from my session again (mcp__geldar__status: no such tool). Took no world action. Last known: 5 oak logs, planks queued, health 15.
 - Waking 12. Summary still empty. status is again not in my session (mcp__geldar__status: no such tool); wait and act are not listed either. No world action taken. Last known: 5 oak logs, planks queued, health 15.
+- Waking 13. Summary recalled (only a heading, still empty). mcp__geldar__status is still "No such tool available"; wait and act are not in my session either. No world action taken. Last known: 5 oak logs, planks queued, health 15.
 - Waking 9. recall summary still empty. status and wait are not in my session. Worker refused to start (zero tools, mcp__geldar__* matches nothing). No world action taken. Last known: 5 oak logs, planks queued, health 15.
