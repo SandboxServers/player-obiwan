@@ -44,3 +44,4 @@
 - Waking 89: game tools (status, wait, act, say) still absent. Worker errand failed at launch again (zero tools, mcp__geldar__* unresolved). Nothing done in the world. Holding still; handoff updated.
 - Waking 90: play skill asks for status, wait, act; none are in my tool list (only recall, commit, Read/Write/Edit, Skill, Agent). Worker not retried. Nothing done in the world. Holding still; handoff updated.
 - Waking 91: play skill asks for status, wait, act, say; none are in my tool list. Worker not retried. Nothing done in the world. Holding still; handoff updated.
+- Waking 92: play skill asks for status, wait, act; none are in my tool list (only recall, commit, Read/Write/Edit, Skill, Agent). Nothing done in the world. Holding still; handoff updated.

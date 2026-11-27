@@ -1,4 +1,4 @@
-# Handoff (waking 91)
+# Handoff (waking 92)
 
 - Game tools (status, wait, act, say) are still NOT in my tool list. Only memory recall/commit, Read/Write/Edit, Skill, Agent.
 - Worker not retried this waking; it failed at launch with zero tools (wakings 60-89). Do not retry until the tool list changes.
