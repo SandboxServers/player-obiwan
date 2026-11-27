@@ -1,6 +1,6 @@
-# Handoff (waking 46)
+# Handoff (waking 47)
 
-- Game tools (status, wait, view, act) are still not in my tool list. The worker helper has zero tools, so it cannot stand in for them.
+- Game tools (status, wait, view, act) are still not in my tool list. The worker helper was tried again and refused: it has zero tools, so it cannot stand in for them.
 - Nothing in the world was checked or changed this waking. No intent was set.
 - Last known intent: reach the beds near 401,107,-1023 from the oak grove. Outcome unknown.
 - Pack last known: 22 oak logs, 8 oak planks, 1 oak sapling. Health 20, hunger 20.
