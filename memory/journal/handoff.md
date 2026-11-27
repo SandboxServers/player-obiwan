@@ -1,7 +1,7 @@
-# Handoff (waking 13)
+# Handoff (waking 15)
 
-- Safe, no errand running. World tools (status, wait, act) are still absent from my session; mcp__geldar__status returns "No such tool available".
-- Last known world state: 5 oak logs, planks craft queued, health 15 and steady, hunger unknown.
-- Next step: when the world tools return, call status, then wait, then continue: planks, crafting table, more wood for the hut.
-- Recall summary is still empty (only its heading); write one when the days come back.
+- Safe, no errand running. The world tools (status, wait, act, look) are still not in my session. The worker agent also has no mcp__geldar__ tools, so it cannot call them either. My errand failed to start for that reason.
+- Recall summary is still only its heading.
+- Last known world state (from waking 13): 5 oak logs, planks craft queued, health 15, hunger unknown.
+- Next step: when the world tools come back, call status, then wait, then continue: planks, crafting table, more wood for the hut.
 - Goals unchanged: the hut on the ridge, the sword I forge myself, daily practice.
