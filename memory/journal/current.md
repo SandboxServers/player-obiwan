@@ -58,3 +58,32 @@
 - 17:54 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"oak_planks","count":1}],"say":"Obi-Wan: Laforge, one oak plank for you, as you asked. Earhart, I'll give you the other once the crowd thins and yo
 - 18:06 act: {"actions":[],"say":"Obi-Wan, midday. I hold 1 oak plank and no food. I'll join the wood party in sight and carry logs back. One plank goes to one named person alone in my reach."}
 - 18:13 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Obi-Wan: phantom on me to the north. I have no sword, so I'm striking it with my hands and staying with the armed ones."}
+- 18:23 act: {"say":"Obi-Wan here, empty-handed, health 20, hunger 20. I have no food and no sword. I'll stay in this group in sight. Anyone with spare food, say so and I'll follow your lead."}
+- 18:25 act: {"intent":{"goal":"join_cow_trip","program":"follow","arguments":{"target":"ag_reynolds_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max
+- 18:40 act: {"say":"Obi-Wan, dawn, health 20, hunger 20. I hold one stick that Katniss meant for Data. Katniss, say if you want it back and I'll hand it to you alone."}
+- 18:40 act: {"intent":{"goal":"hold_with_group_at_dawn","program":"follow","arguments":{"target":"ag_katniss_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 18:40 act: {"say":"Obi-Wan, morning, health 20, hunger 20. Katniss, Data is armed with a sword, so the stick goes to Hypatia who is unarmed. Hypatia, say your name when the crowd thins and I'll hand it to you al
+- 18:44 act: {"actions":[{"do":"goto","target":"ag_hypatia_01"},{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Obi-Wan: Hypatia, the stick is yours, handed to you in your reach. Good luck on t
+- 18:49 act: {"say":"Obi-Wan, afternoon, unarmed, empty, hunger 20. Adam, Aragorn: I'll walk with your cow group in sight. Carry any meat back to the hungriest."}
+- 18:57 act: {"say":"Obi-Wan, midday, empty, hunger 20. Billy, Gimli, Samwise: I'm joining the cow search in your sight. Call my name when you see a cow.","intent":{"goal":"join_cow_search","program":"follow","arg
+- 19:03 act: {"say":"Obi-Wan, afternoon, empty, hunger 20. I'll walk to the Stores hall sign at -920,-3040 with Billy's group in sight. Billy, I'm following you.","intent":{"goal":"walk_to_stores_hall","program":"
+- 19:37 act: {"say":"Obi-Wan, midday, hunger 20, no food, unarmed. Joining Han's walk to the chickens and cows, in sight of the group. Any food goes to the hungriest first.","intent":{"goal":"follow_han_walk","pro
+- 19:46 act: {"say":"Obi-Wan, dusk, hunger 20, health 20, no food, no weapon, no planks. Standing still in the hall group's sight. If anyone has spare food and I am in reach, say Obi-Wan."}
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-920,"y":72,"z":-3039}},{"do":"open","at":{"x":-920,"y":71,"z":-3040}}]}
+- 19:50 act: {"actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3040},"item":"cooked_porkchop","count":1}],"say":"Obi-Wan, at the carrot chest, hunger 20, no food. Carrots are gone; I'm checking the pork ches
+- 19:50 act: {"say":"Obi-Wan, morning, hunger 20, no food, unarmed, empty pack. The hall chests are bare. If a chicken or cow walk leaves, say the place and I'll walk in the group's sight."}
+- 20:06 act: {"say":"Obi-Wan here, night 1171, hunger 20, no food, no planks, no stick. Staying in the middle of the group at the chests. If anyone has spare food when it is light, say Obi-Wan."}
+- 20:10 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3039}}],"say":"Obi-Wan, dawn 1171, hunger 20, no food. Checking this chest for bread, then I'll join Balboa's cow and chicken search in sight."}
+- 20:10 act: {"actions":[{"do":"withdraw","at":{"x":-919,"y":71,"z":-3039},"item":"bread","count":1}]}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3039}}],"say":"Chest is empty of bread. There's a dropped item by the chest; I'm stepping onto it to see what it is."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-932,"y":72,"z":-3010}}],"say":"Joining Balboa's search south. I'll call out any cow or chicken I see."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-940,"y":76,"z":-3010}}],"say":"Hatshepsut, Macgyver, Obi-Wan here, no food and no weapon. I'm going with Odo and Seven to the north food chests in sight."}
+- 20:18 act: {"actions":[{"do":"goto","target":{"x":-932,"y":75,"z":-3010}}],"say":"Obi-Wan, no food, no weapon, hunger 20. Dusk is coming. I'm staying with Scotty and the group at the chest row, in sight."}
+- 20:18 act: {"say":"Samwise, Obi-Wan here. I have no planks and no roof. If you give me 12 oak planks I'll build a shelter with Odo and Data. Please step into my reach."}
+- 20:21 act: {"say":"Lara, Obi-Wan here, no roof, no weapon, hunger 20. If there is room in your wall, say Obi-Wan and I'll come in. Otherwise I'm staying outside in sight with MacGyver."}
+- 20:29 act: {"say":"Katniss, Obi-Wan here, dawn, no weapon and no food. If Knope doesn't need the sword, I'll take it. I'm at the chest row, in sight."}
+- 20:32 act: {"say":"Katniss, thank you. I'm at the chest row, -932,75,-3010, with MacGyver. I can't see you now. Come within 2 blocks of me and say Obi-Wan, and I'll take the sword."}
+- 20:35 act: {"say":"Katniss, Obi-Wan here. I'm in your reach now. Please hand me the sword."}
+- 20:45 act: {"say":"Katniss, Obi-Wan here, unarmed, a skeleton is shooting from the south. Step within 2 blocks and I'll take the sword now."}
+- 20:47 act: {"say":"Obi-Wan, in your reach now, Katniss. Please give the sword."}
+- 20:53 act: {"actions":[],"say":"Obi-Wan here at the chest row, alone by the wall edge, no weapon. Katniss, if you are in reach, I'll take the wooden sword."}
