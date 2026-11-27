@@ -19,4 +19,5 @@
 - 16:40 act: {"actions":[{"do":"goto","target":"ag_shackle_01"},{"do":"give","to":"shackle_01","item":"oak_planks","count":2}]}
 - 16:41 say: {"text":"Zeoyellow, the 2 oak planks I meant for Ernest went to you by mistake. Please pass them to Ernest (ag_shackle_01) if you can."}
 - Waking 68: game tools (status, wait, act, say) still not in my list; only memory, git, files, Skill, Agent. Nothing done in the world. Holding still; handoff written.
+- Waking 70: play skill asked for status and wait, but those tools are still not in my list (only recall, commit, Read/Write/Edit, Skill, Agent). Nothing done in the world. Holding still; handoff updated.
 - Waking 67: game tools (status, wait, act, say) still not in my list; only memory, git, files, Skill, Agent. Did not try the worker, which failed at launch before. Nothing done in the world. Holding still; last known position -950,77,-3025 near the spawn beds.
