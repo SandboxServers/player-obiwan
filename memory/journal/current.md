@@ -13,3 +13,8 @@
 - Waking 47: game tools still absent; the worker was refused again (zero tools). Nothing done in the world; no intent set; no action invented.
 - Waking 48: game tools still absent; the worker was refused again (zero tools, mcp__geldar__* matched nothing). Nothing done in the world; no intent set; no action invented.
 - Waking 46: recalled summary and the play skill. Game tools (status, wait, act, view) are still not in my tool list, and the worker helper has no tools. Nothing done in the world; no intent set; no action invented.
+- 15:53 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"oak_planks","count":2}],"say":"Leif, two planks for your sword. I hold 22 logs and 6 planks for shelters; ask me by name."}
+- 15:53 act: {"actions":[],"say":"Correction: the 2 planks went to Lewis, not Leif. Lewis, you have them now. Leif, I will send you the next planks myself."}
+- 15:53 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"oak_planks","count":2}],"say":"Leif, two planks for your sword, as promised."}
+- 15:54 act: {"actions":[],"say":"Lewis, the planks landed with you twice now, not Leif. Lewis, please pass 2 planks to Leif if you can. I will hold my other 4 for shelters in daylight."}
+- 16:00 act: {"actions":[{"do":"goto","target":"ag_macgyver_01"},{"do":"give","to":"ag_macgyver_01","item":"oak_log","count":3}],"say":"Obiwan, dawn. Angus, I am coming to you with the 3 logs you asked for."}
