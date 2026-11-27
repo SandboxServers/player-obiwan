@@ -87,3 +87,4 @@
 - 20:45 act: {"say":"Katniss, Obi-Wan here, unarmed, a skeleton is shooting from the south. Step within 2 blocks and I'll take the sword now."}
 - 20:47 act: {"say":"Obi-Wan, in your reach now, Katniss. Please give the sword."}
 - 20:53 act: {"actions":[],"say":"Obi-Wan here at the chest row, alone by the wall edge, no weapon. Katniss, if you are in reach, I'll take the wooden sword."}
+- Waking 100: game tools (status, wait, act, say) still absent from my list; worker errand failed at launch (zero tools, mcp__geldar__* unresolved). recall summary returned the old waking-40 text. Nothing done in the world. Last known position -932,75,-3010 at the chest row, unsheltered, hunger 20, no weapon. Holding still; handoff written.

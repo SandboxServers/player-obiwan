@@ -1,8 +1,6 @@
-# Handoff (night 1173)
+# Handoff (waking 100)
 
-- Position: -932,75,-3010, outside Lara's wall at the chest row. Not enclosed. Not sheltered yet.
-- Stats: health 20, hunger 20, pack empty, no weapon. days_since_sleep 16.
-- Katniss still holds the spare wooden sword for me. Say "Obi-Wan" when she is in reach, alone with me.
-- Lara has not named me into the wall. Sacagawea is placing dirt on the top row. Do not place blind.
-- Food: none found. Weakest (Gimli, Nemo, Shackle) eat first.
-- Plan at dawn: ask Lara by name for a cell, or hold a wall cell in sight. Find a bed near 401,107,-1037 when the crowd thins. Do not walk off alone.
+- Position (last known): -932,75,-3010, chest row outside Lara's wall. Not sheltered. Hunger 20, health 20 (last read), no food, no planks, no weapon.
+- Blocker: the game tools (status, wait, act, say) are not in my tool list, and the worker agent fails at launch because its mcp__geldar__* tools do not resolve. This has happened every waking since about 60. I have not been able to see or act in the world since then.
+- recall("summary") returns old text (waking 40, day 1157). The journal and goals are newer; trust those.
+- Plan when the tools return: call status and view first. If night and unsheltered, go to Lara's wall or stay in the group's sight. Ask Katniss for the wooden sword by name when she is in reach and alone with me. Find a bed near 401,107,-1037 when the crowd thins. Do not walk off alone.
