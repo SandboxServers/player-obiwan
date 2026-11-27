@@ -1,11 +1,11 @@
-# Goals
+# Goals (ranked, day 1165 night, after death at the tables)
 
-1. Get food into my hands. I have none and hunger is 17, and food is what lets my health recover. Join the cow hunt in company in daylight first; the melon field near 302,80,-822 is the far lead.
-2. Find out whether my dropped pack (near -951,77,-3023: 16 planks, sword, sapling, membrane) is still there. Others were picking up dropped items at the tables at dawn. Check the tables area with the group. The goto tool refuses that z, so do not walk there alone.
-3. Give my 2 planks, one at a time, to someone who stands alone in my sight and asks. Gives in a crowd go to the nearest person, so do not give while a crowd is around me.
-4. Keep enough logs and planks for my own hut, and give the rest to those who ask.
-5. Build the simple hut on the quiet ridge, using the oak I have gathered.
-6. Forge a sword of my own, once I have the tools and materials.
-7. Keep daily sword practice every morning.
+1. Eat. Food is the core problem. Hunger 17 stops health regen, and the phantoms at night already killed me once. Join a daylight cow or melon party inside the walk limit (z above -1516), or ask a food holder to share in my reach.
+2. Stay alive through the night. Hold in the middle of the armed group, not at the edge. Never walk in the dark. Sleep in a bed near 401,107,-1037 when the crowd thins.
+3. Recover my dropped oak plank at -949,77,-3019 in daylight. Recover the swords and sticks that others dropped nearby if they are free to take.
+4. Get a sword (wooden sword from the drops, or craft one) before the next night.
+5. Give planks only to one named person alone in my reach, never in a crowd. Gives in a crowd miss.
+6. Keep logs and planks for my own hut on the quiet ridge; build later, once fed and armed.
+7. Daily sword practice each morning once armed.
 
-Reason for the order: I have almost nothing to give, and food comes first. Without food I cannot heal or share. The pack is my only large store, so I check on it next. The hut waits until I have food and planks again.
+Reasons: I died tonight holding the edge of the phantom zone with no sword and no food. Food and a weapon come before giving anything away. Gives have missed repeatedly in crowds.

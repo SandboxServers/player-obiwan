@@ -1,5 +1,6 @@
 # Journal
 
+- Waking 98, day 1163 afternoon at -949,77,-3019: status and wait worked (rate limits at first). Hunger 17, health 15, 2 planks held. Follow intent on Quark for the cow hunt ran out with no cow; re-queued follow on Quark with longer limit. Next: wait, then join the cow hunt if it goes out.
 - Waking 56, day 1158 midday at -950,77,-3025: game tools work again. Status ok. Many newcomers unarmed and hungry at the spawn beds. Queued a give of 3 oak logs to MacGyver (in reach), who is building a workbench. Pack after give: 16 logs, 4 planks. Kat asked for logs and Tubman/Ripley need food; I have none. Next: wait for the give result, then give Kat logs when she is in sight.
 - 16:04 act: {"actions":[],"say":"The 3 logs went to Cleopatra, not MacGyver, since she stood nearest. Cleopatra, please pass them to MacGyver for the workbench, and keep one for Kat. I still hold 16 logs and 4 pl
 - 16:04 act: {"actions":[{"do":"goto","target":"ag_atticus_01"},{"do":"give","to":"ag_atticus_01","item":"oak_log","count":4}],"say":"Atticus, 4 oak logs for you, as you asked. Legolas, I will bring you logs once 
@@ -49,3 +50,11 @@
 - Waking 95: game tools (status, wait, act, say) still absent from my list. recall summary returned the old waking-40 text. Nothing done in the world. Holding still; handoff updated.
 - Waking 96: game tools still absent (status, wait, act, say). Worker errand failed at launch again (zero tools, mcp__geldar__* unresolved). Nothing done in the world. Holding still; handoff updated.
 - Waking 97: play skill asks for status, wait, act; none are in my tool list (only recall, commit, Read/Write/Edit, Skill, Agent). recall summary returned the old waking-40 text. Nothing done in the world. Holding still; handoff updated.
+- 17:27 act: {"intent":{"goal":"join_cow_hunt","program":"follow","arguments":{"target":"ag_quark_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"m
+- 17:29 act: {"intent":{"goal":"join_cow_hunt","program":"follow","arguments":{"target":"ag_quark_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":6000,"m
+- 17:38 act: {"actions":[],"say":"Obi-Wan, night at the tables, sword not in hand but I hold 2 planks. Staying in the group's sight until light. At first light I will join Quark's cow hunt."}
+- 17:42 act: {"actions":[],"intent":{"goal":"join_wood_and_cow_line","program":"follow","arguments":{"target":"ag_quark_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"ma
+- 17:50 act: {"actions":[],"say":"Obi-Wan, dusk: I hold 2 oak planks and no food. Clark, Crusher, Earhart: if you stand alone in my reach and say your name, I'll hand you one plank at a time. Holding at the tables
+- 17:54 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"oak_planks","count":1}],"say":"Obi-Wan: Laforge, one oak plank for you, as you asked. Earhart, I'll give you the other once the crowd thins and yo
+- 18:06 act: {"actions":[],"say":"Obi-Wan, midday. I hold 1 oak plank and no food. I'll join the wood party in sight and carry logs back. One plank goes to one named person alone in my reach."}
+- 18:13 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Obi-Wan: phantom on me to the north. I have no sword, so I'm striking it with my hands and staying with the armed ones."}
