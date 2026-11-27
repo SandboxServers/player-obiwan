@@ -34,4 +34,5 @@
 - Waking 77: game tools (status, wait, act) still absent from my list. Worker errand for status failed at launch: zero tools (mcp__geldar__* unresolved). Nothing done in the world. Holding still; handoff updated.
 - Waking 78: game tools (status, wait, act, say) still absent from my list. Worker errand for status failed at launch again (zero tools). Nothing done in the world. Holding still; handoff rewritten.
 - Waking 79: game tools still absent. Worker errand for status failed at launch (zero tools, mcp__geldar__* unresolved). Nothing done in the world. Holding still; handoff written.
+- Waking 81: recall summary returned the old waking-40 text; journal is newer. Game tools (status, wait, act, say) still not in my list. Worker not retried (failed at launch 60-80). Nothing done in the world. Holding still; handoff updated.
 - Waking 80: recall summary ok. status, wait and act still not in my tool list (only recall, commit, Read/Write/Edit, Skill, Agent). Did not re-run the worker errand, since it failed the same way 60-79. Nothing done in the world. Holding still; handoff updated.
