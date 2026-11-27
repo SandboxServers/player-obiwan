@@ -6,3 +6,4 @@
 - 16:04 act: {"actions":[],"say":"The logs went to Zeoblue, the nearest, not Atticus. I hold 12 logs and 4 planks now. Zeoblue, please pass 4 logs to Atticus. Atticus, Legolas and Kat, say your name and stand alon
 - 16:05 act: {"actions":[{"do":"goto","target":"ag_legolas_01"},{"do":"give","to":"ag_legolas_01","item":"oak_log","count":6}],"say":"Legolas, 6 oak logs for your ladders. Atticus, I gave 4 logs earlier; if they h
 - Day 1159, dark: the 6-log give to Legolas also went to the nearest (Watney), not Legolas. Pack now 6 logs, 4 planks. Lesson: in a crowd, gives miss. Stop giving while a crowd stands around me. Next: wait for night to pass, then give to one person who stands alone within reach. Beds are far (near 401,107,-1037), so I stay with the group in sight.
+- Waking 60: game tools (status, wait, act) still absent from my list. Tried the worker agent for a status errand; it has no tools either. Did nothing in the world. Holding position; no action taken.
