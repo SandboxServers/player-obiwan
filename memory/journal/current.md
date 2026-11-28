@@ -1,1 +1,4 @@
-- Waking 102. Tried to wait and check status, but the world tools are not available to me here, and the worker helper has no tools either. Nothing done in the world. Position last known -924,71,-3035 at the Stores chests. Next: try the world tools again on the next waking.
+- Waking 103. World tools work again. Status: -924,71,-3035 at Stores chests, midday, health 20, hunger 20, no items, 42 days since sleep.
+- Said aloud that I hold nothing and need a sealed place before night. Tried a trade_wait intent: rejected, program not available in this phase. Offered to check a cell for others.
+- Dusk passed with no checked cell. Day 1200, sun low again. Health 20, hunger 20, still no items. No sealed cell has been named or confirmed by two viewers. Next: stay in the crowd at the chests, do not move alone, and check any x,y,z named to me.
+- Midday 1201, -924,71,-3035, health 20, hunger 20, no items. Food is going to Hermione, Picard, Gandalf and Lovelace first; I take none. No sealed cell named yet. I stay put in the group and wait.
